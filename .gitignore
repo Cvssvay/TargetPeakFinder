@@ -1,0 +1,16 @@
+data/annotation/**/*.json
+data/train/*.json
+data/test/*.json
+data/val/*.json
+data/weights/*.h5
+data/annotations.zip
+*.pdf
+
+
+# Ignore all pycache directories
+**/__pycache__/
+
+# Ignore other typical Python artifacts
+*.py[cod]
+*.pyo
+*.pyd

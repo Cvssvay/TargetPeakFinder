@@ -1,0 +1,7 @@
+Name,Raw data description,m/z tolerance,Minimum ROI length (in points),Maximum number of zero points in a row
+OriginalData_001,In-house data (serum; hilic; https://doi.org/10.1021/acs.analchem.9b04811),0.005,15,3
+OriginalData_002,MTBLS27 (EMILY_SAMPLE111.mzML),0.05,12,3
+OriginalData_003,MTBLS210 (L_QC1.mzML),0.005,30,3
+OriginalData_004,MTBLS234 (2012_02_03_PStd_5_2.mzML),0.025,20,3
+OriginalData_005,MTBLS404 (QC1_001.mzML),0.005,8,3
+OriginalData_006,In-house data (serum; rplc; https://doi.org/10.1021/acs.analchem.9b04811),0.005,15,3

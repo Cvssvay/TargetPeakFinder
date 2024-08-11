@@ -1,0 +1,8 @@
+data/annotations/**/*.json filter=lfs diff=lfs merge=lfs -text
+data/annotations.zip filter=lfs diff=lfs merge=lfs -text
+data/train/*.json filter=lfs diff=lfs merge=lfs -text
+data/test/*.json filter=lfs diff=lfs merge=lfs -text
+data/val/*.json filter=lfs diff=lfs merge=lfs -text
+data/weights/*.h5 filter=lfs diff=lfs merge=lfs -text
+data/annotation/**/*.json filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text

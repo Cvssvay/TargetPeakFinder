@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TargetedPeakFinder
 
 # Managing Large Datasets in Git Repositories with Git LFS
@@ -36,3 +37,6 @@ The git lfs track command should have added an entry to your .gitattributes file
 ```data/annotations/**/*.json filter=lfs diff=lfs merge=lfs -text```
 
 
+=======
+# TargetPeakFinder
+>>>>>>> 119c59e4462890dca7299a5c5168155da20686ef
